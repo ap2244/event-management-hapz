@@ -25,7 +25,7 @@
    ------------Physical Device: Connect your Android device via USB and ensure Developer Options and USB
    Debugging are enabled.<br />
 
-**APK path = hapztask\app\build\outputs\apk\debug\app-debug.apk**
+**APK path = \app\app-debug.apk**
 
 ### Brief Documentation
 ===========================================
