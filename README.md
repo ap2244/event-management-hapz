@@ -26,7 +26,7 @@
    Physical Device: Connect your Android device via USB and ensure Developer Options and USB
    Debugging are enabled.
 
-**APK path = hapztask\app\build\outputs\apk\debug\app-debug.apk**
+6**APK path = hapztask\app\build\outputs\apk\debug\app-debug.apk**
 
 ### Brief Documentation
 ===========================================
@@ -47,6 +47,6 @@ TextInputLayout and RecyclerView are used for better UI/UX.
 
 ### Additional Libraries or Tools Used
 
-**Room: For local database management.**
-**Gson: For JSON serialization and deserialization.**
-**Material Components: For UI components and styling.**
+Room: For local database management.<br />
+Gson: For JSON serialization and deserialization.<br />
+Material Components: For UI components and styling.<br />
