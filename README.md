@@ -7,7 +7,6 @@
 ### Installation
 
 1. **Download the project:**
-    - unzip it to a directory of your choice.
 
 2. **Open the project in Android Studio.**
 
@@ -15,18 +14,18 @@
 
 4. **Build and run the Project**
 
-   ---------Go to Build > Rebuild Project.
-   --------Android Studio will compile the project and show build results in the Build window.
-   -------- Set Up an Emulator or Connect a Device via USD
+   ---------Go to Build > Rebuild Project.<br />
+   --------Android Studio will compile the project and show build results in the Build window.<br />
+   -------- Set Up an Emulator or Connect a Device via USD<br />
    ---------Select the target device or emulator from the device dropdown menu at the top of Android
-   Studio.
-   ---------Click the Run button (green triangle) in the toolbar.
-   Emulator: You can use the built-in Android emulator in Android Studio. To set it up, go to
-   Tools > AVD Manager and create a new virtual device.
-   Physical Device: Connect your Android device via USB and ensure Developer Options and USB
-   Debugging are enabled.
+   Studio.<br />
+   ---------Click the Run button (green triangle) in the toolbar.<br />
+   -----------Emulator: You can use the built-in Android emulator in Android Studio. To set it up, go to
+   -----------Tools > AVD Manager and create a new virtual device.<br />
+   ------------Physical Device: Connect your Android device via USB and ensure Developer Options and USB
+   Debugging are enabled.<br />
 
-6**APK path = hapztask\app\build\outputs\apk\debug\app-debug.apk**
+**APK path = hapztask\app\build\outputs\apk\debug\app-debug.apk**
 
 ### Brief Documentation
 ===========================================
