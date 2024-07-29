@@ -1,7 +1,7 @@
 ### Prerequisites
 
 - Android Studio
-- Java 8 or above
+- Java 8
 - Kotlin
 
 ### Installation
